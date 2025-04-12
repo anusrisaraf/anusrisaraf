@@ -1,16 +1,12 @@
-## Hi there 👋
+# Hi! I'm Sri Saraf
+### Currently:
+- Studying Computer Science+AI and Business Analytics @ MIT, with minors in Mathematics and Music
+- Conducting foundation model analysis and determining the effect of AI development on the scientific method and societal impact @ MIT CSAIL's [Futuretech](https://futuretech.mit.edu/)
+- President + Builder @ [MIT Pokerbots](https://pkr.bot/)
+- Building a short 2D platformer, _Legend of Silence_, with a hopeful release date of late 2025
+- Chronicling my thoughts and experiences on my [newsletter](https://srisaraf.notion.site/meditations-and-musings)
 
-<!--
-**anusrisaraf/anusrisaraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Interested in:
+software engineering, full-stack development, machine learning/artificial intelligence, cybersecurity, game development
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+www.mit.edu/~srisar
